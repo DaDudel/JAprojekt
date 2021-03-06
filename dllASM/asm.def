@@ -1,0 +1,3 @@
+LIBRARY "dllASM"
+EXPORTS
+filtr
